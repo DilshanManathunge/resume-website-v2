@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         "bg-grad-purple": "#1C0C4B",
         "bg-grad-blue": "#0D1665",
+        "bg-card-purple": "#C9C2EB",
         "txt-teal": "#21AE95",
         "txt-purple": "#7864F3",
       },

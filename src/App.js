@@ -11,6 +11,7 @@ function App() {
         <Navbar />
         <Homepage />
         <IntroPage />
+        <ProjectPage />
       </div>
       {/* <Homepage />
       <IntroPage />
