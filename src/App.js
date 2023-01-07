@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
-
+import "./App.css"
+import Navbar from "./components/navbar/Navbar"
+import ContactPage from "./views/contact/ContactPage"
+import Homepage from "./views/home/Homepage"
+import IntroPage from "./views/intro/IntroPage"
+import ProjectPage from "./views/projects/ProjectPage"
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-gradient-to-r from-bg-grad-purple via-bg-grad-purple to-bg-grad-blue">
+      <div className="w-4/5 display-flex mx-auto place-content-center flex-direction-row">
+        <Navbar />
+        <Homepage />
+        <IntroPage />
+      </div>
+      {/* <Homepage />
+      <IntroPage />
+      <ProjectPage />
+      <ContactPage /> */}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
