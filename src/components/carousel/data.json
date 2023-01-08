@@ -1,1 +1,80 @@
-[{ "id": 1 }, { "id": 2 }, { "id": 3 }, { "id": 4 }]
+[
+  {
+    "id": 1,
+    "title": "CONNERS : A conversationally Explainable Recommendation",
+    "description": "CONNERS : A conversationally Explainable Recommendation system was a year long research I conducted on A new form of CRS(Conversational Recommendation Systems)that could explain its recommendation to the user. The System uses Word vectors to derives it explaination using the interests presented by the user. This Research project was award a top 50 placement during my final year.",
+    "tech": [
+      "Python",
+      "React",
+      "Conversational Systems",
+      "Recommendation Systems",
+      "Explainable Recommendations"
+    ],
+    "links": [{ "github": "" }],
+    "source": ""
+  },
+  {
+    "id": 2,
+    "title": "VESTIGIA",
+    "description": "VESTIGIA is a Project Management Solution developed to aiod small and medium sized Companies Manage their project timelines.",
+    "tech": ["C#", "Blazor", "ASP .Net"],
+    "links": [{ "github": "" }, { "figma": "" }],
+    "source": ""
+  },
+  {
+    "id": 3,
+    "title": "Yoshi",
+    "description": "Yoshi is an AI-Assisted Writing Platform that developed for aiding Writers with sentence suggestions to combat writer's block",
+    "tech": ["python", "NLP", "React", "Node"],
+    "links": [{ "github": "" }, { "dribble": "" }],
+    "source": ""
+  },
+  {
+    "id": 4,
+    "title": "Catographer",
+    "description": "A CNN Model for Colorization of Cats",
+    "tech": ["Image Processing", "Python"],
+    "links": [{ "github": "" }],
+    "source": ""
+  },
+  {
+    "id": 5,
+    "title": "HomeCook'ed",
+    "description": "A Reponsive Mobile Application created to promote Home cooked Meal delivery augmented with AR ",
+    "tech": ["Javascript", "J-query"],
+    "links": [{ "github": "" }, { "Dribble": "" }],
+    "source": ""
+  },
+  {
+    "id": 6,
+    "title": "HomeBrands",
+    "description": "A Mobile Application created to promote Small Business within a community",
+    "tech": ["Javascript", "J-query"],
+    "links": [{ "github": "" }, { "Dribble": "" }],
+    "source": ""
+  },
+  {
+    "id": 7,
+    "title": "Orderable",
+    "description": "A Mobile Application for a online supermarket shopping experience",
+    "tech": ["Javascript", "J-query"],
+    "links": [{ "github": "" }, { "Dribble": "" }],
+    "source": ""
+  },
+  {
+    "id": 8,
+    "title": "Heca",
+    "description": "A health and wellness platform created to promote activenes during the covid lock down period",
+    "tech": ["Javascript", "J-query"],
+    "links": [{ "github": "" }, { "Dribble": "" }],
+    "source": ""
+  },
+  {
+    "id": 9,
+    "title": "WhiteBoard",
+    "description": "A machine learning based learning managment system similar to moodle and blackboard",
+    "tech": ["Javascript", "J-query"],
+    "links": [{ "github": "" }, { "Dribble": "" }],
+    "source": ""
+  }
+]

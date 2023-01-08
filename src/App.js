@@ -12,6 +12,7 @@ function App() {
         <Homepage />
         <IntroPage />
         <ProjectPage />
+        <ContactPage />
       </div>
       {/* <Homepage />
       <IntroPage />

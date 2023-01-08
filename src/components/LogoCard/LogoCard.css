@@ -1,0 +1,6 @@
+.logo-card:hover {
+  cursor: pointer;
+  background-color: #663eda;
+  color: white;
+  transform: scale(1.1, 1.1);
+}

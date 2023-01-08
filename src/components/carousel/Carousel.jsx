@@ -30,11 +30,9 @@ const Carousel = () => {
         <div className="grid grid-cols-2">
           <div>img</div>
           <div>
-            <h1 className="text-txt-teal text-3xl pb-10">Title</h1>
+            <h1 className="text-txt-teal text-3xl pb-10">{current.title}</h1>
             <div>
-              <p className="text-xl text-txt-purple">
-                description id is {current.id}
-              </p>
+              <p className="text-xl text-txt-purple">{current.description}</p>
             </div>
           </div>
         </div>
@@ -44,6 +42,7 @@ const Carousel = () => {
           <div>
             {" "}
             <h1 className="text-txt-teal text-3xl pb-10">Tech used</h1>
+            <p></p>
           </div>
           <div>
             {" "}
